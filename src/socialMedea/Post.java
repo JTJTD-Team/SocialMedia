@@ -15,8 +15,6 @@ public final class Post {
 
     public void setBody(Object body) {
         this.body = body;
-        //testing commit
-
     }
 
     public String getDateTime() {
