@@ -15,6 +15,7 @@ public final class Post {
 
     public void setBody(Object body) {
         this.body = body;
+
     }
 
     public String getDateTime() {
